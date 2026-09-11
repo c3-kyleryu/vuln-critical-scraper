@@ -10,8 +10,8 @@
   "author": "c3-kyleryu",
   "license": "MIT",
   "dependencies": {
-    "lodash": "4.17.12",
-    "minimist": "0.0.8",
+    "lodash": "4.17.4",
+    "minimist": "0.2.4",
     "node-fetch": "2.6.0",
     "handlebars": "4.0.5",
     "marked": "0.3.6",
